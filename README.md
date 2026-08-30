@@ -1,6 +1,8 @@
-# Hi, I'm Lucas 🧙‍♂️
+# Hi, I'm Lucas 🙂‍↔️
 
-Data Scientist based in Berlin, currently looking for **social-impact work or research** opportunities.
+Experienced Data Scientist, with a background in applying ML solution to issues of National Security in the Australian Public Service
+
+Based in Berlin, currently looking for **social-impact work or research** opportunities.
 
 I like building small, useful tools — usually in Python, usually involving some mix of agents, audio, and data.
 

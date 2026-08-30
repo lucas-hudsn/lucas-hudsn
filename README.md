@@ -1,4 +1,4 @@
-# Hi, I'm Lucas 🙂‍↔️
+# Hi, I'm Lucas 🧙‍♂️
 
 Experienced Data Scientist, with a background in applying ML solution to issues of National Security in the Australian Public Service
 

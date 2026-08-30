@@ -1,10 +1,10 @@
 # Hi, I'm Lucas 🧙‍♂️
 
-Experienced Data Scientist, with a background in applying ML solution to issues of National Security in the Australian Public Service
+Experienced Data Scientist, with a background in applying ML solutions to issues of National Security in the Australian Public Service.
 
 Based in Berlin, currently looking for **social-impact work or research** opportunities.
 
-I like building small, useful tools — usually in Python, usually involving some mix of agents, audio, and data.
+I like building small, useful tools — usually in Python, usually involving some mix of agents, ML models, and data.
 
 ---
 

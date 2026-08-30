@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Lucas 🧙‍♂️
 
-<!--
-**lucas-hudsn/lucas-hudsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist based in Berlin, currently looking for **social-impact work or research** opportunities.
 
-Here are some ideas to get you started:
+I like building small, useful tools — usually in Python, usually involving some mix of agents, audio, and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I'm building
+
+- 🌊 **[wavereader](https://github.com/lucas-hudsn/wavereader)** — an agentic surf forecasting web app
+- 🎬 **[movieclub](https://github.com/lucas-hudsn/movieclub)** — a full-stack monthly movie club app
+- 🇩🇪 **[deutsch_class](https://github.com/lucas-hudsn/deutsch_class)** — a local German vocabulary TTS/STT terminal app
+- 📖 **[reader3](https://github.com/lucas-hudsn/reader3)** (fork) — reading books together with LLMs
+
+### 🌱 What I'm into
+
+- Applying ML/data science to problems with real social impact
+- Agentic tools and LLM-powered apps
+- Language learning tech
+
+### 📫 Find me
+
+- GitHub: [@lucas-hudsn](https://github.com/lucas-hudsn)
+- Based in Berlin, Germany
+
+---
+
+<sub>Open to social-impact and research roles — feel free to reach out!</sub>

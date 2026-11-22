@@ -1,31 +1,50 @@
-# Hi, I'm Lucas 🧙‍♂️
+# Lucas Hudson
 
-Experienced Data Scientist, with a background in applying ML solutions to issues of National Security in the Australian Public Service.
+**Data scientist and AI engineer in Berlin.** I build small, useful tools —
+usually Python, often agents and local models — and write about what I learn.
+Before Berlin, I applied ML to national-security problems in the Australian
+Public Service.
 
-Based in Berlin, currently looking for **social-impact work or research** opportunities.
-
-I like building small, useful tools — usually in Python, usually involving some mix of agents, ML models, and data.
+[Website](https://lucas-hudsn.github.io) · [Resume](https://lucas-hudsn.github.io/resume/) · [LinkedIn](https://www.linkedin.com/in/lucas-hudson-0a1384183/)
 
 ---
 
-### 🔭 What I'm building
+## What I'm building
 
-- 🌊 **[wavereader](https://github.com/lucas-hudsn/wavereader)** — an agentic surf forecasting web app
-- 🎬 **[movieclub](https://github.com/lucas-hudsn/movieclub)** — a full-stack monthly movie club app
-- 🇩🇪 **[deutsch_class](https://github.com/lucas-hudsn/deutsch_class)** — a local German vocabulary TTS/STT terminal app
-- 📖 **[reader3](https://github.com/lucas-hudsn/reader3)** (fork) — reading books together with LLMs
+**[wave~reader](https://github.com/lucas-hudsn/wavereader)** — an agentic surf
+forecaster for 238 Australian breaks. Deterministic scores, narrated by an
+open-weight model. Built for the GTC Berlin Golden Ticket contest.
 
-### 🌱 What I'm into
+**[movieclub](https://github.com/lucas-hudsn/movieclub)** — a full-stack monthly
+movie club app. FastAPI + HTMX + Postgres. [Live](https://movieclub.fastapicloud.dev).
 
-- Applying ML/data science to problems with real social impact
+**[deutsch_class](https://github.com/lucas-hudsn/deutsch_class)** — a local
+German vocabulary TTS/STT terminal app.
+
+**[frau_agent](https://github.com/lucas-hudsn/frau_agent)** — a local German
+conversation partner. pydantic-ai + Ollama, text or voice, no cloud calls.
+
+**[ncc-bot](https://github.com/lucas-hudsn/ncc-bot)** — agentic RAG for the
+Australian National Construction Code, with clause-level citations.
+
+## What I'm into
+
+- Applying ML and data science to problems with real social impact
 - Agentic tools and LLM-powered apps
-- Language learning tech
+- Local and open-weight models
+- Language-learning tech
 
-### 📫 Find me
+## Writing
 
-- GitHub: [@lucas-hudsn](https://github.com/lucas-hudsn)
-- Based in Berlin, Germany
+I write at [lucas-hudsn.github.io](https://lucas-hudsn.github.io) about data
+science, local AI, and building software that runs on your own machine.
+
+## Find me
+
+- Berlin, Germany
+- [lucas-hudsn.github.io](https://lucas-hudsn.github.io)
+- [LinkedIn](https://www.linkedin.com/in/lucas-hudson-0a1384183/)
 
 ---
 
-<sub>Open to social-impact and research roles — feel free to reach out!</sub>
+<sub>Open to social-impact and research roles.</sub>
